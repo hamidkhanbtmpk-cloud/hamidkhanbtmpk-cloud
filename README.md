@@ -65,8 +65,12 @@ Designed and developed the complete business website. Currently managing ongoing
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamidkhanbtmpk-cloud&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkhanbtmpk-cloud&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamidkhanbtmpk-cloud&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkhanbtmpk-cloud&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="160" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=hamidkhanbtmpk-cloud&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
 ---
